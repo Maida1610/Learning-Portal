@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { SignedOut } from '@clerk/clerk-react'
-import CourseCard from '../components/CourseCard'
+import CourseCard from '../components/courseCard'
 import illustration from '../assets/illustration.png'
 
 const dummyCourses = [

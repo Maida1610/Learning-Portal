@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import CourseCard from '../components/CourseCard'
+import CourseCard from '../components/courseCard'
 import mernThumb from '../assets/mern.png'
 import reactThumb from '../assets/react.png'
 import typescriptThumb from '../assets/typescript.png'
